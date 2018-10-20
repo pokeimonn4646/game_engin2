@@ -1,4 +1,0 @@
-void testfunction()
-{
-    printf("aaaa");
-}
